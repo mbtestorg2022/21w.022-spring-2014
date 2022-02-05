@@ -75,14 +75,75 @@ Within our classroom, laptop computers and other electronic devices may only be 
 Commenting and Grading
 ----------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essay 1 | 15 |
-| Essay 2 | 25 |
-| Essay 3 | 20 |
-| Essay 4 | 20 |
-| Attendance, Homework, Participation | 15 |
-| Oral presentations | 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 4
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, Homework, Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This semester you will write four pieces, each with a different focus. Each piece will be initially submitted as a first version and later, in revised form. In reviewing first versions of your essays and stories, I will evaluate your work-in-progress and provide comments and suggestions for revision. I am also available to meet with you to discuss your writing. First versions of the first three essays are evaluated and commented on; revisions are letter graded. The first version and revision of Essay 4 are both letter-graded. Pre-draft and homework exercises will be acknowledged with a check and / or brief comments. It is important that you submit work on the due date. In the event of a personal or medical emergency, please contact me (or have a dean contact me) as soon as possible. Late submission of work without an extension may result in a lowered final grade.
 
