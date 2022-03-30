@@ -96,7 +96,7 @@ Nwosu, Kelechi. "[Zero Beach](http://web.mit.edu/angles/angles_Kelechi_Nwosu.htm
 Family Relationships, Language, Legitimacy and the Writer's Craft
 {{< tdclose >}}
 {{< tdopen >}}
-Tan, Amy. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Mother Tongue." (PDF - 1.9MB)](http://theessayexperiencefall2013.qwriting.qc.cuny.edu/files/2013/09/Mother-Tongue-by-Amy-Tan.pdf) 1990.
+Tan, Amy. ["Mother Tongue." (PDF - 1.9MB)](http://theessayexperiencefall2013.qwriting.qc.cuny.edu/files/2013/09/Mother-Tongue-by-Amy-Tan.pdf) 1990.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Work: Creativity and Integrity
 
 Atwood, Margaret. "[A Path Taken, With All the Certainty of Youth](http://www.nytimes.com/2002/03/11/arts/writers-on-writing-a-path-taken-with-all-the-certainty-of-youth.html)." _New York Times_, March 11, 2002.
 
-Witherspoon, Abigail. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["This Pen for Hire." (PDF)](http://www.eacfaculty.org/pchidester/Eng%20102f/Plagiarism/This%20Pen%20for%20Hire.pdf) _Harper's_, June 1995.
+Witherspoon, Abigail. ["This Pen for Hire." (PDF)](http://www.eacfaculty.org/pchidester/Eng%20102f/Plagiarism/This%20Pen%20for%20Hire.pdf) _Harper's_, June 1995.
 
 
 {{< tdclose >}}
@@ -292,7 +292,7 @@ Oral Presentations
 {{< tdopen >}}
 
 
-Ehrenreich, Barbara. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Welcome to Cancerland." (PDF)](http://pinkribbonblues.org/wp-content/uploads/2010/08/Ehrenreich-2001-WelcomeToCancerland-Harpers.pdf) _Harper's_, November 2001, 43-53.
+Ehrenreich, Barbara. ["Welcome to Cancerland." (PDF)](http://pinkribbonblues.org/wp-content/uploads/2010/08/Ehrenreich-2001-WelcomeToCancerland-Harpers.pdf) _Harper's_, November 2001, 43-53.
 
 Engelberg, Miriam. _Cancer Made Me a Shallower Person_. Harper Perennial, 2006. ISBN: 9780060789732.
 
